@@ -1,8 +1,8 @@
 [
     {
       "name": "Spidey Swing",
-      "is_landscape": false,
-      "more_apps": false,
+      "is_landscape": true,
+      "more_apps": true,
       "icon": "https://imgs2.dab3games.com/spidy-swing-game462.png",
       "url": "https://lagged.com/games/play2/spidey-swing-7963/"
     }

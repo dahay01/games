@@ -1,531 +1,188 @@
 [
-      
-    {
-      "name": "Skateboard Surf",
-      "is_landscape": false,
-      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/8a/ea/9a8aea8a-2589-cecf-f59d-09441520f826/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg?w=150",
-      "url": "https://lagged.com/api/play2/skateboard-surf6/"
-    },
-    {
-      "name": "Fall Run 3D",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/fall-run-3d-game32.png",
-      "url": "https://lagged.com/games/play2/fall-run-3d-1/"
-    },
-    {
-      "name": "Muscle Rush",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/muscle-rush44.png",
-      "url": "https://lagged.com/games/play2/musclerush21/"
-    },
-    {
-      "name": "Sky Roller",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/sky-roller-game15.png",
-      "url": "https://lagged.com/games/play2/skyroller17/"
-    },
-    {
-      "name": "Teeth Runner",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/teeth-runner-game6.png",
-      "url": "https://lagged.com/games/play2/teethrun211/"
-    },
-    {
-      "name": "OnPipe Game",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/onpipe-game50.png",
-      "url": "https://lagged.com/games/play2/onpipe17/"
-    },
-    {
-      "name": "Crazy Drift ",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/drift-to-right-game19.png",
-      "url": "https://lagged.com/games/play2/crazydrift14/"
-    },
-    {
-      "name": "Grab Pack Playtime",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/grab-pack-playtime21.png",
-      "url": "https://lagged.com/games/play2/grab-pack-playtime24/"
-    },
-    {
-      "name": "Happy Glass 3",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/happy-glass-3-game.png",
-      "url": "https://lagged.com/api/play2/happy-glass-3a/"
-    },
-    {
-      "name": "Save the Girl",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/save-the-girl-game.png",
-      "url": "https://lagged.com/games/play2/save-the-girl-new1/"
-    },
-    {
-      "name": "Pull Him Out",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/pull-him-out-game.png",
-      "url": "https://lagged.com/games/play2/pull-him-out-5/"
-    },
-    {
-      "name": "Kissy Missy & Huggy Wuggy",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/kissy-huggy-game15.png",
-      "url": "https://lagged.com/games/play2/kissy-missy-huggy-wuggy-gm1/"
-    },
-    {
-      "name": "Spidey Swing",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/spidy-swing-game462.png",
-      "url": "https://lagged.com/games/play2/spidey-swing-7963/"
-    },
-
-    {
-      "name": "Killer City",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/killer-city-game.png",
-      "url": "https://lagged.com/api/play2/killer-city5/"
-    },
-    {
-      "name": "Ropeman",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/ropeman-game25.png",
-      "url": "https://lagged.com/games/play2/ropemanonline5/"
-    },
-
-    {
-      "name": "Squid Game",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/squid-game-3d9110.png",
-      "url": "https://lagged.com/api/play2/real-squid-game-online/"
-    },
-    {
-      "name": "Knife Hit",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/knife-hit-game.jpg",
-      "url": "https://lagged.com/api/play2/knife-hit/"
-    },
-    {
-      "name": "Knife Hit 2",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/knife-hit-2-game.png",
-      "url": "https://lagged.com/api/play2/knife-hit-2g/"
-    },
-    {
-      "name": "Round 6",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/round-6-game20.png",
-      "url": "https://lagged.com/games/play2/square-game14/"
-    },
-   
-    {
-      "name": "Fruit Master",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/fruit-master-game.jpg",
-      "url": "https://lagged.com/api/play2/fruit-master/"
-    },
-    {
-      "name": "Space Knife",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/space-knife-game43.png",
-      "url": "https://lagged.com/games/play2/spaceknife9/"
-    },
-    {
-      "name": "Fruit Break",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/fruit-break-game.jpg",
-      "url": "https://lagged.com/api/play2/fruit-break3/"
-    },
-    {
-      "name": "Jump Bottle",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/bottle-jump-game.png",
-      "url": "https://lagged.com/api/play2/jump-bottle/"
-    },
-    {
-      "name": "Paper Flick",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/paper-flick-game.jpg",
-      "url": "https://lagged.com/api/play2/paper-flick/"
-    },
-    {
-      "name": "Rolling Ball 2",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/rolling-sky-game.png",
-      "url": "https://lagged.com/api/play2/rolling-sky6/"
-    },
-    {
-      "name": "3D Ball Fall",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/3d-ball-fall-game.png",
-      "url": "https://lagged.com/api/play2/3d-ball-fall9/"
-    },
-    {
-      "name": "Helix Jump",
-      "is_landscape": false,
-      "icon": "https://play-lh.googleusercontent.com/U51SuEi--l_p_IcWu0Ok1Mj6lVD9cykaP_-5iuaXweJhaZSLbwfE5ISYiPYy6U8l2LQ",
-      "url": "https://lagged.com/api/play2/helix-jump/"
-    },
-    {
-      "name": "Balloon Ride",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/balloon-ride-game.png",
-      "url": "https://lagged.com/api/play2/balloon-ride/"
-    },
-    {
-      "name": "Stack Bump 3D",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/stack-bump-3d-game.png",
-      "url": "https://lagged.com/api/play2/stack-bump-3d/"
-    },
-    {
-      "name": "Fidget Spinner Pro",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/fidget-spinner-pro-game.jpg",
-      "url": "https://lagged.com/api/play2/fidget-spinner-mania2/"
-    },
-    {
-      "name": "Fidget Spinner Battle",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/fidget-spinner-battle-game.jpg",
-      "url": "https://lagged.com/api/play/fidget-spinner-battle2/"
-    },
-    {
-      "name": "Swimming Pro",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/swimming-pro-game.jpg",
-      "url": "https://lagged.com/api/play2/swimming-pro-update/"
-    },
-    {
-      "name": "Mini Skate",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/mini-skateboard-game.jpg",
-      "url": "https://lagged.com/api/play2/mini-skate/"
-    },
-    {
-      "name": "Hex Blaster",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/hex-blaster-game.png",
-      "url": "https://lagged.com/api/play2/hex-blaster/"
-    },
-    {
-      "name": "Hyper Hockey",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/hyper-hockey-game.png",
-      "url": "https://lagged.com/api/play2/hyper-hockey/"
-    },
-    {
-      "name": "Battle Arena Soccer",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/battle-arena-soccer23.png",
-      "url": "https://lagged.com/games/play2/battle-arena-soccer-118/"
-    },
-    {
-      "name": "Crazy Kick",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/crazy-kick-game.png",
-      "url": "https://lagged.com/api/play2/crazy-kick/"
-    },
-    {
-      "name": "Super Goal",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/super-goal-game.png",
-      "url": "https://lagged.com/api/play2/super-goal2/"
-    },
-    {
-      "name": "Surfing Hero",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/surfing-hero-game35.png",
-      "url": "https://lagged.com/games/play2/surfinghero10/"
-    },
-    {
-      "name": "Tennis Hero",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/tennis-hero-game.png",
-      "url": "https://lagged.com/api/play2/tennis-hero/"
-    },
-    {
-      "name": "Smart Soccer",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/smart-soccer-game.jpg",
-      "url": "https://lagged.com/api/play2/smart-soccer3/"
-    },
-    {
-      "name": "Soccer 2018",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/soccer-2018-game.jpg",
-      "url": "https://lagged.com/api/play2/soccer-2018/"
-    },
-    {
-      "name": "Foosball",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/foosball-game.png",
-      "url": "https://lagged.com/api/play2/foosball/"
-    },
-    {
-      "name": "ZigZag",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/zig-zag-online-game.jpg",
-      "url": "https://lagged.com/api/play/zigzag2/"
-    },
-    {
-      "name": "Pipe Mania",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/pipe-mania-game.jpg",
-      "url": "https://lagged.com/api/play2/pipe-mania/"
-    },
-    {
-      "name": "Pipe",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/pipe-game.jpg",
-      "url": "https://lagged.com/api/play2/pipe/"
-    },
-
-      "name": "Tap Among Us",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/tap-among-us-game.png",
-      "url": "https://lagged.com/api/play2/tap-among-us6/"
-    },
-    {
-      "name": "Slime Simulator",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/slime-simulator-game9.png",
-      "url": "https://lagged.com/games/play2/slimesimulator16/"
-    },
-    {
-      "name": "Tiles Hop",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/tiles-hop-game.png",
-      "url": "https://lagged.com/api/play2/tiles-hop6/"
-    },
-    {
-      "name": "Neon Dance",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/neon-dance-game30.png",
-      "url": "https://lagged.com/games/play2/neon-dance-f1/"
-    },
-    {
-      "name": "Hop Ball",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/hop-ball-game.png",
-      "url": "https://lagged.com/api/play2/hop-ball/"
-    },
-    {
-      "name": "Cube Surfer",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/cube-surfer-game.png",
-      "url": "https://lagged.com/api/play2/cube-surfer3/"
-    },
-    {
-      "name": "Going Balls",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/going-balls-game50.png",
-      "url": "https://lagged.com/api/play2/rolling-ball2/"
-    },
-    
-    {
-      "name": "Slope Run",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/slope-run-game.png",
-      "url": "https://lagged.com/games/slope-run6/"
-    },
-    {
-      "name": "Rush 3D",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/rush-3d-game.jpg",
-      "url": "https://lagged.com/api/play2/rush-3d2/"
-    },
-    {
-      "name": "Gate Runner",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/gate-runner-game.png",
-      "url": "https://lagged.com/api/play2/gate-runner/"
-    },
-    {
-      "name": "Stack Colors",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/stack-colors-game.png",
-      "url": "https://lagged.com/api/play2/stack-colors2/"
-    },
-    {
-      "name": "Color Bump",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/color-bump-game13.png",
-      "url": "https://lagged.com/games/play2/colorbump11/"
-    },
-    {
-      "name": "Color Pump",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/color-pump-game41.png",
-      "url": "https://lagged.com/games/play2/color-pump23/"
-    },
-    {
-      "name": "Infinite Jumper",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/infinite-jumper-game.png",
-      "url": "https://lagged.com/api/play2/infinite-jumper/"
-    },
-    {
-      "name": "Arrow Fest",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/arrow-fest-game30.png",
-      "url": "https://lagged.com/games/play2/arrow-fest3/"
-    },
-    {
-      "name": "Boxing Punch",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/boxing-punch-game.png",
-      "url": "https://lagged.com/api/play2/boxing-punch/"
-    },
-    {
-      "name": "Tippy Toe 3D",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/tippy-toe-3d-game30.png",
-      "url": "https://lagged.com/games/play2/tippytoe3d3/"
-    },
-    {
-      "name": "Tall Man Runner",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/tall-man-run40.png",
-      "url": "https://lagged.com/games/play2/tallmanrunner9/"
-    },
-
-    {
-      "name": "Spiral Roll",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/spiral-roll-game.png",
-      "url": "https://lagged.com/api/play2/spiral-roll3/"
-    },
-    {
-      "name": "Tower Run",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/tower-run-game.png",
-      "url": "https://lagged.com/api/play2/tower-run/"
-    },
-    {
-      "name": "Pancake Runner",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/pancake-runner-game10.png",
-      "url": "https://lagged.com/games/play2/pancakerunner24/"
-    },
-    {
-      "name": "Nail Salon",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/nail-salon-online-game30.png",
-      "url": "https://games.gamepix.com/play/40260?sid=30059"
-    },
-    {
-      "name": "Ben 10 No Arm Done",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/no-arm-done-game.png",
-      "url": "https://lagged.com/api/play2/ben-10-no-arm-done/"
-    },
-    {
-      "name": "Elmore Breakout",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/elmore-breakout-game.jpg",
-      "url": "https://lagged.com/api/play2/elmore-breakout/"
-    },
-    {
-      "name": "Rocket Flip",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/rocket-flip-game.png",
-      "url": "https://lagged.com/api/play2/rocket-flip/"
-    },
-    {
-      "name": "Street Basketball",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/street-bastketball-game50.png",
-      "url": "https://lagged.com/games/play2/streetbasketball5/"
-    },
-    {
-      "name": "Paint the Game",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/draw-the-game-game35.png",
-      "url": "https://lagged.com/games/play2/paint-the-game-dl2/"
-    },
-    {
-      "name": "Pool 8",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/pool-8-game.png",
-      "url": "https://lagged.com/api/play2/pool-8f/"
-    },
-    {
-      "name": "Roll the Ball",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/roll-the-ball-online-game.jpg",
-      "url": "https://lagged.com/api/play2/roll-the-ball-online/"
-    },
-    {
-      "name": "Pipe Flow",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/pipe-flow-game.png",
-      "url": "https://lagged.com/api/play2/pipe-flow/"
-    },
-    {
-      "name": "Drawmaster",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/drawmaster-game32.png",
-      "url": "https://lagged.com/games/play2/drawmaster21/"
-    },
-    {
-      "name": "Draw Park",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/draw-park-game.png",
-      "url": "https://lagged.com/api/play2/draw-park/"
-    },
-    {
-      "name": "Eraser",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/eraser-game26.png",
-      "url": "https://lagged.com/games/play2/eraser-wk/"
-    },
-    {
-      "name": "Pin Rescue",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/pin-rescue-game11.png",
-      "url": "https://lagged.com/games/play2/pullpinfix23/"
-    },
-    {
-      "name": "Love Balls",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/love-balls-game.png",
-      "url": "https://lagged.com/api/play2/love-balls/"
-    },
-    {
-      "name": "Dot Rush",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/dot-rush-game.png",
-      "url": "https://lagged.com/api/play2/dot-rush3/"
-    },
-    {
-      "name": "Clean Maze",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/clean-maze-game.png",
-      "url": "https://lagged.com/api/play2/clean-maze2/"
-    },
-    {
-      "name": "Color Fall",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/color-fall-game18.png",
-      "url": "https://lagged.com/games/play2/color-fall-new1/"
-    },
-    {
-      "name": "Rope Master",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/rope-master-game.png",
-      "url": "https://lagged.com/api/play2/rope-master/"
-    },
-    {
-      "name": "Brain for Monster Truck",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/brain-for-monster-truck-game.jpg",
-      "url": "https://lagged.com/api/play2/brain-for-monster-truck7/"
-    },
-    {
-      "name": "Basketball Shootout",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/basketball-shootout-game.png",
-      "url": "https://lagged.com/play/619/"
-    }
-  ]
-  
+  {
+    "name": "Skateboard Surf",
+    "is_landscape": false,
+    "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/8a/ea/9a8aea8a-2589-cecf-f59d-09441520f826/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg?w=150",
+    "url": "https://lagged.com/api/play2/skateboard-surf6/"
+  },
+  {
+    "name": "Fall Run 3D",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/fall-run-3d-game32.png",
+    "url": "https://lagged.com/games/play2/fall-run-3d-1/"
+  },
+  {
+    "name": "Muscle Rush",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/muscle-rush44.png",
+    "url": "https://lagged.com/games/play2/musclerush21/"
+  },
+  {
+    "name": "Sky Roller",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/sky-roller-game15.png",
+    "url": "https://lagged.com/games/play2/skyroller17/"
+  },
+  {
+    "name": "Teeth Runner",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/teeth-runner-game6.png",
+    "url": "https://lagged.com/games/play2/teethrun211/"
+  },
+  {
+    "name": "OnPipe Game",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/onpipe-game50.png",
+    "url": "https://lagged.com/games/play2/onpipe17/"
+  },
+  {
+    "name": "Crazy Drift",
+    "is_landscape": true,
+    "icon": "https://imgs2.dab3games.com/drift-to-right-game19.png",
+    "url": "https://lagged.com/games/play2/crazydrift14/"
+  },
+  {
+    "name": "Grab Pack Playtime",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/grab-pack-playtime21.png",
+    "url": "https://lagged.com/games/play2/grab-pack-playtime24/"
+  },
+  {
+    "name": "Happy Glass 3",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/happy-glass-3-game.png",
+    "url": "https://lagged.com/api/play2/happy-glass-3a/"
+  },
+  {
+    "name": "Save the Girl",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/save-the-girl-game.png",
+    "url": "https://lagged.com/games/play2/save-the-girl-new1/"
+  },
+  {
+    "name": "Pull Him Out",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/pull-him-out-game.png",
+    "url": "https://lagged.com/games/play2/pull-him-out-5/"
+  },
+  {
+    "name": "Kissy Missy & Huggy Wuggy",
+    "is_landscape": true,
+    "icon": "https://imgs2.dab3games.com/kissy-huggy-game15.png",
+    "url": "https://lagged.com/games/play2/kissy-missy-huggy-wuggy-gm1/"
+  },
+  {
+    "name": "Spidey Swing",
+    "is_landscape": true,
+    "icon": "https://imgs2.dab3games.com/spidy-swing-game462.png",
+    "url": "https://lagged.com/games/play2/spidey-swing-7963/"
+  },
+  {
+    "name": "Killer City",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/killer-city-game.png",
+    "url": "https://lagged.com/api/play2/killer-city5/"
+  },
+  {
+    "name": "Ropeman",
+    "is_landscape": true,
+    "icon": "https://imgs2.dab3games.com/ropeman-game25.png",
+    "url": "https://lagged.com/games/play2/ropemanonline5/"
+  },
+  {
+    "name": "Squid Game",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/squid-game-3d9110.png",
+    "url": "https://lagged.com/api/play2/real-squid-game-online/"
+  },
+  {
+    "name": "Knife Hit",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/knife-hit-game.jpg",
+    "url": "https://lagged.com/api/play2/knife-hit/"
+  },
+  {
+    "name": "Knife Hit 2",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/knife-hit-2-game.png",
+    "url": "https://lagged.com/api/play2/knife-hit-2g/"
+  },
+  {
+    "name": "Round 6",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/round-6-game20.png",
+    "url": "https://lagged.com/games/play2/square-game14/"
+  },
+  {
+    "name": "Fruit Master",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/fruit-master-game.jpg",
+    "url": "https://lagged.com/api/play2/fruit-master/"
+  },
+  {
+    "name": "Space Knife",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/space-knife-game43.png",
+    "url": "https://lagged.com/games/play2/spaceknife9/"
+  },
+  {
+    "name": "Fruit Break",
+    "is_landscape": true,
+    "icon": "https://imgs2.dab3games.com/fruit-break-game.jpg",
+    "url": "https://lagged.com/api/play2/fruit-break3/"
+  },
+  {
+    "name": "Jump Bottle",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/bottle-jump-game.png",
+    "url": "https://lagged.com/api/play2/jump-bottle/"
+  },
+  {
+    "name": "Paper Flick",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/paper-flick-game.jpg",
+    "url": "https://lagged.com/api/play2/paper-flick/"
+  },
+  {
+    "name": "Rolling Ball 2",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/rolling-sky-game.png",
+    "url": "https://lagged.com/api/play2/rolling-sky6/"
+  },
+  {
+    "name": "3D Ball Fall",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/3d-ball-fall-game.png",
+    "url": "https://lagged.com/api/play2/3d-ball-fall9/"
+  },
+  {
+    "name": "Helix Jump",
+    "is_landscape": false,
+    "icon": "https://play-lh.googleusercontent.com/U51SuEi--l_p_IcWu0Ok1Mj6lVD9cykaP_-5iuaXweJhaZSLbwfE5ISYiPYy6U8l2LQ",
+    "url": "https://lagged.com/api/play2/helix-jump/"
+  },
+  {
+    "name": "Balloon Ride",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/balloon-ride-game.png",
+    "url": "https://lagged.com/api/play2/balloon-ride/"
+  },
+  {
+    "name": "Stack Bump 3D",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/stack-bump-3d-game.png",
+    "url": "https://lagged.com/api/play2/stack-bump-3d/"
+  },
+  {
+    "name": "Fidget Spinner Pro",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/fidget-spinner-pro-game.jpg",
+    "url": "https://lagged.com/api/play2/fidget-spinner-mania2/"
+  },
+  {
+    "name": "Fidget Spinner Battle",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/fidget-spinner-battle-game.jpg",
+    "url": "https://lagged.com/api/play2/fidget-spinner-battle/"
+  }
+]

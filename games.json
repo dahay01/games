@@ -1,202 +1,5 @@
 [
-       {
-      "name": "Pop It Master",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/c23a554a7cb198faf9144bb3ee933eb4.jpeg",
-      "url": "https://poki.com/en/g/pop-it-master"
-    },
-    {
-      "name": "Parkour Race",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/a151c8ec0e7758c6fa0ef06ff540e911.jpeg",
-      "url": "https://poki.com/en/g/parkour-race"
-    },
-    {
-      "name": "Blumgi Rocket",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/672fb98802b00740e3c885cb2b31fc51.png",
-      "url": "https://poki.com/en/g/blumgi-rocket"
-    },
-    {
-      "name": "Stickman Hook",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png",
-      "url": "https://poki.com/en/g/stickman-hook"
-    },
-    {
-      "name": "Merge Cyber Racers",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/c60c528ec365c8ee3edf488f511e6fe5.png",
-      "url": "https://poki.com/en/g/merge-cyber-racers"
-    },
-    {
-      "name": "Moto X3M Winter",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/c28eee5a5924e8a70afb2c1490d9b571.jpeg",
-      "url": "https://poki.com/en/g/moto-x3m-4-winter"
-    },
-    {
-      "name": "Moto X3M",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/2c6d5a46cdbceada277c870ce1c389ee.jpg",
-      "url": "https://poki.com/en/g/moto-x3m"
-    },
-    {
-      "name": "ShootZ",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/4ef7badda36e39159f664313397b7cef.png",
-      "url": "https://poki.com/en/g/shootz"
-    },
-    {
-      "name": "Lines to Fill",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/fc2b879713950ed32f54607f060c7b04.png",
-      "url": "https://poki.com/en/g/lines-to-fill"
-    },
-    {
-      "name": "Stick Merge",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
-      "url": "https://poki.com/en/g/stick-merge"
-    },
-    {
-      "name": "The Sniper Code",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/cad360531002e844bda8d5647a87c424.png",
-      "url": "https://poki.com/en/g/the-sniper-code"
-    },
-    {
-      "name": "Who Is?",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/c4c595e3c44b5e9be859179458207971.jpeg",
-      "url": "https://poki.com/en/g/who-is"
-    },
-    {
-      "name": "Tiny Fishing",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/c8cb366d52fc2a67fb313c344efdbc9e.png",
-      "url": "https://poki.com/en/g/tiny-fishing"
-    },
-    {
-      "name": "Like a King",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/f0cd739414e134d667d7025aafaedb35.png",
-      "url": "https://poki.com/en/g/like-a-king"
-    },
-    {
-      "name": "G-Switch 3",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/7f53593c-4090-4cc5-a934-6a5e599d8eaa.png",
-      "url": "https://poki.com/en/g/g-switch-3"
-    },
-    {
-      "name": "G-Switch",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/202ed126-cc1d-4638-b0f2-f99ea1244747.png",
-      "url": "https://poki.com/en/g/gswitch"
-    },
-    {
-      "name": "G-Switch 2",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/5efc67ae5e74d7b55b5a88d0707af9bb.png",
-      "url": "https://poki.com/en/g/gswitch-2"
-    },
-    {
-      "name": "Piano Tiles",
-      "is_landscape": false,
-      "icon": "https://play-lh.googleusercontent.com/zlo5rdamMnvD8wGcV6OQme3jYUjzpj4ZR4hqjioSL0z6uYp4sqYgHRWfjRLzNe6WhA",
-      "url": "https://poki.com/en/g/piano-tiles-2"
-    },
-    {
-      "name": "Slopey",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/48fdcb743a8cfc4b66dbb07444dd3108.png",
-      "url": "https://poki.com/en/g/slopey"
-    },
-    {
-      "name": "Bouncy Catapult",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/89f5fc78c4d4680c9eb26258815ee50ac58ba6e85c21eda90c193c83a96ec31d.png",
-      "url": "https://poki.com/en/g/bouncy-catapult"
-    },
-    {
-      "name": "Supernova",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/739332737189b3683ffe4df29c66e039efde3b4869aa203744ee4befb79cb3c7.png",
-      "url": "https://poki.com/en/g/supernova"
-    },
-    {
-      "name": "Rolling Sky Ball",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/f41268d1c29a0ca8192c53b043b46a09.png",
-      "url": "https://poki.com/en/g/rolling-sky"
-    },
-    {
-      "name": "Slime Road",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/949c7699982b64af34ef648680ad7d41.png",
-      "url": "https://poki.com/en/g/slime-road"
-    },
-    {
-      "name": "Ping Pong",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/aa850a3705bb31cc524fec36f8d31320.jpeg",
-      "url": "https://poki.com/en/g/ping-pong-html5"
-    },
-    {
-      "name": "Dunkbrush",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/4f8170b605042bc7eab3a83193e17389.png",
-      "url": "https://poki.com/en/g/dunkbrush"
-    },
-    {
-      "name": "Unblock It",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/192f64241e0cf70d8872f4571aceff81.png",
-      "url": "https://poki.com/en/g/unblock-it"
-    },
-    {
-      "name": "It's Story Time!",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/a8e38af649693531e20fcd0ace566c73.png",
-      "url": "https://poki.com/en/g/its-story-time"
-    },
-    {
-      "name": "2048",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/cb8c967c-4a78-4ffa-8506-cbac69746f4f.png",
-      "url": "https://poki.com/en/g/2048"
-    },
-    {
-      "name": "Bubble Shooter",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,f=auto/2d5e417ea0fc1ef06d746b2cef691c07.png",
-      "url": "https://poki.com/en/g/bubble-shooter-lak"
-    },
-    {
-      "name": "Crossy Road",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/76fc1b000203faf71b77a75b10022142.png",
-      "url": "https://lagged.com/play/3202/"
-    },
-    {
-      "name": "Sniper Code 2",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/7cfd58a296b054c6db298c0f5240a6ce.png",
-      "url": "https://poki.com/en/g/sniper-code-2"
-    },
-    {
-      "name": "Energy",
-      "is_landscape": false,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/87a85d8d280a08350fd87b36f266018d24318af2ca22d959163f18596e310a84.png",
-      "url": "https://poki.com/en/g/energy"
-    },
-    {
-      "name": "Truck Loader",
-      "is_landscape": true,
-      "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/e115ce49e7a1ddf315cfef76e8a8d00c.png",
-      "url": "https://poki.com/en/g/truck-loader"
-    },
+      
     {
       "name": "Skateboard Surf",
       "is_landscape": false,
@@ -208,12 +11,6 @@
       "is_landscape": false,
       "icon": "https://imgs2.dab3games.com/fall-run-3d-game32.png",
       "url": "https://lagged.com/games/play2/fall-run-3d-1/"
-    },
-    {
-      "name": "Stair Race 3D",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/stair-race-3d-game572.png",
-      "url": "https://play.famobi.com/stair-race-3d/A-0D1OG"
     },
     {
       "name": "Muscle Rush",
@@ -281,12 +78,7 @@
       "icon": "https://imgs2.dab3games.com/spidy-swing-game462.png",
       "url": "https://lagged.com/games/play2/spidey-swing-7963/"
     },
-    {
-      "name": "Stickman Rope",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/stickman-rope-game.png",
-      "url": "https://html5.gamedistribution.com/029f632bdc32475d97cfa78847b796ab/"
-    },
+
     {
       "name": "Killer City",
       "is_landscape": false,
@@ -299,12 +91,7 @@
       "icon": "https://imgs2.dab3games.com/ropeman-game25.png",
       "url": "https://lagged.com/games/play2/ropemanonline5/"
     },
-    {
-      "name": "Bottle Flip 3D",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/bottle-flip-3d-game.png",
-      "url": "https://html5.gamedistribution.com/95c4932d8f6d42688b0fa38274282a86/"
-    },
+
     {
       "name": "Squid Game",
       "is_landscape": false,
@@ -329,12 +116,7 @@
       "icon": "https://imgs2.dab3games.com/round-6-game20.png",
       "url": "https://lagged.com/games/play2/square-game14/"
     },
-    {
-      "name": "Knife Jump",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/knife-jump-game185.png",
-      "url": "https://html5.gamedistribution.com/2e17eaa71f3a4cc1a58d7a17813465f8/"
-    },
+   
     {
       "name": "Fruit Master",
       "is_landscape": false,
@@ -497,13 +279,7 @@
       "icon": "https://imgs2.dab3games.com/pipe-game.jpg",
       "url": "https://lagged.com/api/play2/pipe/"
     },
-    {
-      "name": "Hexa Puzzle",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/hexa-puzzle-game.jpg",
-      "url": "https://poki.com/en/g/mosaic-puzzle-art"
-    },
-    {
+
       "name": "Tap Among Us",
       "is_landscape": false,
       "icon": "https://imgs2.dab3games.com/tap-among-us-game.png",
@@ -545,12 +321,7 @@
       "icon": "https://imgs2.dab3games.com/going-balls-game50.png",
       "url": "https://lagged.com/api/play2/rolling-ball2/"
     },
-    {
-      "name": "Rail Slide",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/rail-slide-game851.png",
-      "url": "https://html5.gamedistribution.com/951ad3dacf8a4017b8268b316ad73ee7/"
-    },
+    
     {
       "name": "Slope Run",
       "is_landscape": false,
@@ -594,18 +365,6 @@
       "url": "https://lagged.com/api/play2/infinite-jumper/"
     },
     {
-      "name": "Domino Frenzy",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/domino-frenzy-game.png",
-      "url": "https://play.famobi.com/domino-frenzy/A-0D1OG"
-    },
-    {
-      "name": "Color Eggs",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/color-eggs-game.png",
-      "url": "https://html5.gamedistribution.com/c697cbd02d1c4f01b52be737ca8c7792/"
-    },
-    {
       "name": "Arrow Fest",
       "is_landscape": false,
       "icon": "https://imgs2.dab3games.com/arrow-fest-game30.png",
@@ -629,12 +388,7 @@
       "icon": "https://imgs2.dab3games.com/tall-man-run40.png",
       "url": "https://lagged.com/games/play2/tallmanrunner9/"
     },
-    {
-      "name": "High Heels",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/high-heels-online-game364.png",
-      "url": "https://html5.gamedistribution.com/6ce900f6ad5f4f42adddd1ad501a13c8/"
-    },
+
     {
       "name": "Spiral Roll",
       "is_landscape": false,
@@ -676,18 +430,6 @@
       "is_landscape": false,
       "icon": "https://imgs2.dab3games.com/rocket-flip-game.png",
       "url": "https://lagged.com/api/play2/rocket-flip/"
-    },
-    {
-      "name": "Pool Club",
-      "is_landscape": true,
-      "icon": "https://imgs2.dab3games.com/rackem-io-game.jpg",
-      "url": "https://play.famobi.com/8-ball-billiards-classic/A-0D1OG"
-    },
-    {
-      "name": "Hoop Royale",
-      "is_landscape": false,
-      "icon": "https://imgs2.dab3games.com/hoop-royale-game.png",
-      "url": "https://play.famobi.com/hoop-royale/A-0D1OG"
     },
     {
       "name": "Street Basketball",

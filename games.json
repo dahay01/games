@@ -1,5 +1,10 @@
 [
-     
+  {
+   "name": "amazon",
+    "is_landscape": true,
+    "icon": "https://imgs2.dab3games.com/master-of-numbers-ft119.png",
+    "url": "https://www.amazon.com/dp/B0DQFYR3L9/ref=sr_1_1?dib=eyJ2IjoiMSJ9.28GUoZu4Oz6Nl2x8Y_VmahIYO2qrPYqQlIrZt_BhfLM.kNUB7BoxZzFZId_rX7croLHr073Z2LjD4_zDqbDgu5I&dib_tag=se&qid=1734230708&refinements=p_4%3ACraftBox+Games&s=mobile-apps&search-type=ss&sr=1-1"
+  },     
   {
    "name": "Master of Numbers",
     "is_landscape": true,

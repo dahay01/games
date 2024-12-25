@@ -2,8 +2,8 @@
     {
       "name": "Toilet Race",
       "is_landscape": true,
-      "more_apps": false,
-      "activity_start": false,
+      "more_apps": true,
+      "activity_start": true,
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6BzJJiBmd0nzjGQAMkfJ8tckopZMJz-yYv1akVbaWCmp2nR1ZQBretpEHbxleF82gFUC1fWobFtzE-9WzWtSB6p47U0a2mAe91MI3h4Ueo3MbeyIMeBD7nkTk7hqOx62I-DfGo_e2yzJmcKsNspYVWF26fEOtf2_IRr1xYsQKxPTVfj1KjXXayqH9iAh/s1600/512.png",
       "url": "https://lagged.com/games/play2/toilet-racer-146576/"
     }

@@ -1,10 +1,10 @@
 [
     {
-      "name": "DODO Dash",
+      "name": "Βuіld Сraft",
       "is_landscape": true,
-      "more_apps": false,
-      "activity_start": false,
-      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOqiAl09q8JxEQYapRpDtyzp_08ksPjxGftVhuEXIeRgbleY_G5LWOJMVouEGQEJmoy9vrVp8gzJeNIKVhko4drfgnAo3TjMFJQcPlzlALxhVpEJdqr5nCROyg3HX2nkgQCjurJ95xVzOB2BeXLSuJub2qPJpZ0_E7L9dFWmI3l20cwkJG3QI6T9UkVss/s1600/512.png",
+      "more_apps": true,
+      "activity_start": true,
+      "icon": "https://m.media-amazon.com/images/I/81gdeB4JuXL.png",
       "url": "https://eaglercraftx.pages.dev/",
       "activity_update": false,
       "title_update": "New App",

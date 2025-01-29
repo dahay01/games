@@ -2,8 +2,8 @@
     {
       "name": "Βuіld Сraft",
       "is_landscape": true,
-      "more_apps": true,
-      "activity_start": true,
+      "more_apps": false,
+      "activity_start": false,
       "icon": "https://m.media-amazon.com/images/I/81gdeB4JuXL.png",
       "url": "https://eaglercraftx.pages.dev/",
       "activity_update": false,

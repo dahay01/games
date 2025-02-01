@@ -6,18 +6,25 @@
     "url": "https://lagged.com/games/play2/king-of-numbers--puzzle-master-467731",
     "to_amazon_store": false
   },
+   {
+    "name": "Stack Bump 3D",
+    "is_landscape": false,
+    "icon": "https://imgs2.dab3games.com/stack-bump-3d-game.png",
+    "url": "https://lagged.com/api/play2/stack-bump-3d/"
+    "to_amazon_store": true
+  },
     {
     "name": "Fidget Spinner Pro",
     "is_landscape": false,
     "icon": "https://imgs2.dab3games.com/fidget-spinner-pro-game.jpg",
-    "url": "https://lagged.com/api/play2/fidget-spinner-mania2/",
-    "to_amazon_store": true
+    "url": "amzn://apps/android?p=com.ferdinandthijs.minecraft.buildcraft.lokicraft.sprunki.spongebob",
+    "to_amazon_store": false
   },
   {
     "name": "Fidget Spinner Battle",
     "is_landscape": false,
     "icon": "https://imgs2.dab3games.com/fidget-spinner-battle-game.jpg",
     "url": "amzn://apps/android?p=com.ferdinandthijs.minecraft.buildcraft.lokicraft.sprunki.spongebob",
-    "to_amazon_store": false
+    "to_amazon_store": true
   }
 ]

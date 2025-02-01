@@ -1,11 +1,9 @@
 [
   {
-    "to_amazon_store": true
-  },
-  {
     "name": "Master of Numbers",
     "is_landscape": true,
     "icon": "https://imgs2.dab3games.com/master-of-numbers-ft119.png",
-    "url": "https://lagged.com/games/play2/king-of-numbers--puzzle-master-467731"
+    "url": "https://lagged.com/games/play2/king-of-numbers--puzzle-master-467731",
+    "to_amazon_store": true
   }
 ]

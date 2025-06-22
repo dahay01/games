@@ -1,7 +1,7 @@
 [
     {
       "name": "Chess Moveclass Scorevio",
-      "is_landscape": true,
+      "is_landscape": false,
       "more_apps": false,
       "activity_start": false,
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOqiAl09q8JxEQYapRpDtyzp_08ksPjxGftVhuEXIeRgbleY_G5LWOJMVouEGQEJmoy9vrVp8gzJeNIKVhko4drfgnAo3TjMFJQcPlzlALxhVpEJdqr5nCROyg3HX2nkgQCjurJ95xVzOB2BeXLSuJub2qPJpZ0_E7L9dFWmI3l20cwkJG3QI6T9UkVss/s1600/512.png",
@@ -9,7 +9,7 @@
       "activity_update": true,
       "title_update": "New App",
       "description_update": "This app has expired and is no longer used, press the button below to download and install the latest app.",
-      "bkg_update": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicOkDLxdWJPW6a-b5ewRz0M1n5WX7lddOt9FjUXfhSrc3GgBiZ00q0vgFHXZwTJkd0JF6eTecz3ZIhmf2ppO_erkyAI4YJgpG8xA0YlXRJZTriRXqyeOTSfrF66j3w7XSBwSeX3o9pN5Jun6hzsKJ8NBFqsAcxWKbZ9rez-8QPI7sKA3FofEPJhxqzo2E/s1600/chewy.png",
-      "url_update_1": "https://mavely.app.link/e/DWbVigskSSb"
+      "bkg_update": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh84ohlI8G4pXl4Cyh_4XlnbsS6WvNcndu7k87Wr6k6JoHLViNkDr2Q_0hzlqWEiRKv4ov8KmYU-PdS_hN0miKBw-KYCbWx_cd3yuhf16VcQ2RwX9ENICehy6p_ltq7GtphQcINGBC3S5x83D1l8LujYLrB4waNMxfcl4qf-ar_alW1GJG0il_jwSKT4mRp/s1600/screenmirrorr.png",
+      "url_update_1": "amzn://apps/android?p=com.soomapps.universalremotecontrol.myrem.universalTV.tvremote"
     }
 ]

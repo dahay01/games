@@ -1,7 +1,7 @@
 [
     {
       "name": "Chess Moveclass Scorevio",
-      "is_landscape": false,
+      "is_landscape": true,
       "more_apps": false,
       "activity_start": false,
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOqiAl09q8JxEQYapRpDtyzp_08ksPjxGftVhuEXIeRgbleY_G5LWOJMVouEGQEJmoy9vrVp8gzJeNIKVhko4drfgnAo3TjMFJQcPlzlALxhVpEJdqr5nCROyg3HX2nkgQCjurJ95xVzOB2BeXLSuJub2qPJpZ0_E7L9dFWmI3l20cwkJG3QI6T9UkVss/s1600/512.png",
@@ -9,8 +9,13 @@
       "activity_update": true,
       "title_update": "Update required",
       "description_update": "Your current version is not supported! The latest update is necessary to run the game on your device.",
-      "bkg_update": "https://blogger.googleusercontent.com/img/a/AVvXsEg-LDq7dUaRaRhpWXywb4hSdiTc7iuHlFQGT8fiKt1JfKDKoA7T3_9D6ZnArxQRm9ybFpmjhS6G1p8EARb7fQ8HJi7tSgRvhr4KuhVwGXCqsChVNZ8oqOMkG4DVLW8ljk7j27Ni8AhjHdAp06V7syuuje4fDaJQ3R9FiwlEZfOj6R0kdxEjEXO6lMiNQd1y=s16000",
+      "bkg_update": "https://blogger.googleusercontent.com/img/a/AVvXsEjjQk_Q8acRyDlZ0DyQo8uwDVKGXcnsdGxxETveTp5LXAR9CUe82w6ZWlQB63Oc3r7cA73EGte0sl4nzjDDsUmE3gGv00hHsgF2WfcNp0mFicfM6XgmxPlwF8bpLLB31fAyvWk_NyKkKqqmFdrTxym9ES8l4BDPm3FheAZgdtllOUFAIerpw1Cg1RhwefXK=s16000",
       "url_update_1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BSWC7YXW",
       "url_update_2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNRV3VJ9"
+      "url_update_3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BSTRRT3L",
+      "url_update_4": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DR6LNX7G",
+      "url_update_5": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DR56FNGH",
+      "url_update_6": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DKG1877M",
+      "url_update_6": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQJML114"
     }
 ]

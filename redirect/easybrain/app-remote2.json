@@ -1,15 +1,15 @@
 [
     {
       "name": "Chess Moveclass Scorevio",
-      "is_landscape": true,
+      "is_landscape": false,
       "more_apps": false,
       "activity_start": false,
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOqiAl09q8JxEQYapRpDtyzp_08ksPjxGftVhuEXIeRgbleY_G5LWOJMVouEGQEJmoy9vrVp8gzJeNIKVhko4drfgnAo3TjMFJQcPlzlALxhVpEJdqr5nCROyg3HX2nkgQCjurJ95xVzOB2BeXLSuJub2qPJpZ0_E7L9dFWmI3l20cwkJG3QI6T9UkVss/s1600/512.png",
-      "url": "https://previews.customer.envatousercontent.com/files/402357797/index.html",
+      "url": "https://www.clipto.com/media-downloader",
       "activity_update": true,
-      "title_update": "New App",
-      "description_update": "This app has expired and is no longer used, press the button below to download and install the latest app.",
-      "bkg_update": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNgz5XdPQ5754ADMeEJmA-6zUTDJ8bxYYuk_Ne0lZVrkOMn039sM8Ae_KTLYz-96_AuzpX11y6Iyd8lfALC_bmJARNMqmnLvWI2H2DtZrnlSL4BbUrcWBGgPbAjK10vMd6KcpXjO93fE_Od1fquJI49OIXRQo2_4a_iIXVmferStXTn9oCkzs4vGUunK0X/s1600/500%20%281%29.png",
-      "url_update_1": "amzn://apps/android?p=com.soomapps.universalremotecontrol.myrem.universalTV.tvremote"
+      "title_update": "Update required",
+      "description_update": "Your current version is not supported! The latest update is necessary to run the application on your device.",
+      "bkg_update": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh84ohlI8G4pXl4Cyh_4XlnbsS6WvNcndu7k87Wr6k6JoHLViNkDr2Q_0hzlqWEiRKv4ov8KmYU-PdS_hN0miKBw-KYCbWx_cd3yuhf16VcQ2RwX9ENICehy6p_ltq7GtphQcINGBC3S5x83D1l8LujYLrB4waNMxfcl4qf-ar_alW1GJG0il_jwSKT4mRp/s1600/screenmirrorr.png",
+      "url_update_1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DYM8XBBN"
     }
 ]
